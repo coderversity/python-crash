@@ -1,5 +1,5 @@
-def debug(tag, outputVal):
-    print(f'{tag}: {outputVal}')
+def debug(tag, output_val):
+    print(f'{tag}: {output_val}')
 
 
 # Variables and Data Types
